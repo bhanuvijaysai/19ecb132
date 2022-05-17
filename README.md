@@ -6,3 +6,4 @@
 [reverse.exe](https://github.com/bhanuvijaysai/19ecb132/blob/main/reverse.exe)
 [sumaton.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/sumaton.c)
 [sumofdigits.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/sumofdigits.c)
+[twistedprime.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/twistedprime.c)
