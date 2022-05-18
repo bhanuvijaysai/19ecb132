@@ -14,3 +14,4 @@
 [position.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/position.c)
 [logicaloperators](https://github.com/bhanuvijaysai/19ecb132/blob/main/logicaloperators.c)
 [insertion.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/insertion.c)
+[factorial.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/factorial.c)
