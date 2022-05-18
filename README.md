@@ -17,18 +17,18 @@
 
 [position.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/position.c)
 
-[swaptwonumbers](https://github.com/bhanuvijaysai/19ecb132/blob/main/swaptwo%20numbers.c)
+[swaptwonumbers.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/swaptwo%20numbers.c)
 
-[sumofintegers](https://github.com/bhanuvijaysai/19ecb132/blob/main/sum%20of%20integers.c)
+[sumofintegers.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/sum%20of%20integers.c)
 
-[relationaloperators](https://github.com/bhanuvijaysai/19ecb132/blob/main/relationaloperators.c)
+[relationaloperators.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/relationaloperators.c)
 
 [position.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/position.c)
 
-[logicaloperators](https://github.com/bhanuvijaysai/19ecb132/blob/main/logicaloperators.c)
+[logicaloperators.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/logicaloperators.c)
 
 [insertion.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/insertion.c)
 
 [factorial.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/factorial.c)
 
-[PALINDROME.C](https://github.com/bhanuvijaysai/19ecb132/blob/main/palindrome.c)
+[palindrome.C](https://github.com/bhanuvijaysai/19ecb132/blob/main/palindrome.c)
