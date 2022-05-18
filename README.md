@@ -7,5 +7,4 @@
 [sumaton.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/sumaton.c)
 [sumofdigits.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/sumofdigits.c)
 [twistedprime.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/twistedprime.c)
-[swaptwonumbers.c](https://github.com/bhanuvijaysai/19ecb132/commit/76cf07cbebbd05f334960e6a03ec698524790bea)
-[sumofintegers.c](https://github.com/bhanuvijaysai/19ecb132/commit/b19a4fbf0fb1031678567625f5e9250247a01347)
+[position.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/position.c)
