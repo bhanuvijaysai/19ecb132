@@ -8,3 +8,4 @@
 [sumofdigits.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/sumofdigits.c)
 [twistedprime.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/twistedprime.c)
 [position.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/position.c)
+[swaptwonumbers](https://github.com/bhanuvijaysai/19ecb132/blob/main/swaptwo%20numbers.c)
