@@ -10,3 +10,4 @@
 [position.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/position.c)
 [swaptwonumbers](https://github.com/bhanuvijaysai/19ecb132/blob/main/swaptwo%20numbers.c)
 [sumofintegers](https://github.com/bhanuvijaysai/19ecb132/blob/main/sum%20of%20integers.c)
+[relationaloperators](https://github.com/bhanuvijaysai/19ecb132/blob/main/relationaloperators.c)
