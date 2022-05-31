@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 {
 	int n,r,s=0,c=0,i=2,n1;
 	printf("\n enter n");
@@ -35,3 +35,7 @@ main()
 		else
 		printf("%d is not a twisted no.",n1);	
 }
+/*output
+enter n 5
+5 is a twisted no.
+*/
