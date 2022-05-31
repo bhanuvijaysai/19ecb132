@@ -6,5 +6,7 @@ int main()
     x = y;
     y = temp;
     printf("x = %d and y = %d", x, y);
-    getch();
 }
+/*output
+x = 15 and y = 10
+*/
