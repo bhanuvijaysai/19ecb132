@@ -7,7 +7,7 @@ int main()
   	int i;
  
   	printf("\n Please Enter any String :  ");
-  	gets(str);
+  	fgets;
   	
   	printf("\n Please Enter the Character that you want to Search for :  ");
   	scanf("%c", &ch);
@@ -22,3 +22,7 @@ int main()
 	
   	return 0;
 }
+/*output
+Please Enter any String :  
+ Please Enter the Character that you want to Search for :  B
+*/
