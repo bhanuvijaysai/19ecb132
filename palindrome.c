@@ -1,7 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
-
-void main()
+int main()
 {
     int a, b, c, s = 0;
     clrscr();

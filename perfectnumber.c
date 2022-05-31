@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 {
 	int n,i=1,s=0;
 	printf("\n Enter the value of n");
@@ -15,3 +15,8 @@ printf("%d is a perfect number",n);
     else
 printf("\n %d is not a perfect number",n);
 }
+/*output
+Enter the value of n 4
+
+ 4 is not a perfect number
+*/
