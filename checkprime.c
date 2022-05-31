@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 {
 	int n,i=2,c=0;
 	printf("\n enter the value of n");
@@ -18,3 +18,8 @@ main()
 	else
 	printf("%d is not a prime number",n);
 }
+/* output
+
+ enter the value of n
+2
+2 is prime number*/
