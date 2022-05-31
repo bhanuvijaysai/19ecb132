@@ -18,3 +18,7 @@ int main()
   }
   return 0;
 }
+/*output
+Enter a number: 3
+Factorial of 3 is: 6
+  */
