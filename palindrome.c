@@ -2,7 +2,6 @@
 int main()
 {
     int a, b, c, s = 0;
-    clrscr();
     printf("Enter a number:\t");
     scanf("%d", &a);
     c = a;
@@ -20,5 +19,8 @@ int main()
    {
       printf("The number %d is not a palindrome", c);
    }
-  getch();
 }
+/*output
+Enter a number: 2
+The number 2 is a palindrome
+*/

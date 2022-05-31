@@ -1,7 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
-
-void main()
+int main()
 {
     int x = 10, y = 15, temp;
     temp = x;
