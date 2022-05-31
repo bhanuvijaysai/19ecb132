@@ -22,4 +22,5 @@ int main()
 
  enter the value of n
 2
-2 is prime number*/
+2 is prime number
+*/
