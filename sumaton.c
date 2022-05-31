@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 {
 	int n,i=1,s=0;
 	printf("\n Enter the value of n");
@@ -11,3 +11,7 @@ main()
 	}
 printf("%d",s);
 }
+/*output
+Enter the value of n 6
+21
+  */
