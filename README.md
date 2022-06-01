@@ -18,3 +18,4 @@
 [palindrome.C](https://github.com/bhanuvijaysai/19ecb132/blob/main/palindrome.c)   
 [assignment 1.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/assignment%201.c)   
 [assignment 2.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/assignment%202.c)
+[assignment 3.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/assignment%203.c)
