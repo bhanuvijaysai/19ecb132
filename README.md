@@ -15,4 +15,5 @@
 [logicaloperators.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/logicaloperators.c)   
 [insertion.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/insertion.c)   
 [factorial.c](https://github.com/bhanuvijaysai/19ecb132/blob/main/factorial.c)   
-[palindrome.C](https://github.com/bhanuvijaysai/19ecb132/blob/main/palindrome.c)
+[palindrome.C](https://github.com/bhanuvijaysai/19ecb132/blob/main/palindrome.c)   
+https://github.com/bhanuvijaysai/19ecb132/blob/main/assignment%201.c
